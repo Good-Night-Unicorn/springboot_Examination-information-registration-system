@@ -1,4 +1,4 @@
-<img width="1284" height="908" alt="图片" src="https://github.com/user-attachments/assets/c5de7977-58c1-4276-8a9d-c60087bb0373" />## 基于Springboot+vue的考试信息报名(源代码+LW+数据库)
+## 基于Springboot+vue的考试信息报名(源代码+LW+数据库)
 **毕业设计所有选题地址： https://github.com/Good-Night-Unicorn?tab=repositories**
 
 **完整代码收费可以加微信FY-yuanma咨询接毕业设计论文**
@@ -51,6 +51,7 @@
 所有项目以及源代码本人均调试运行无问题 可支持远程调试运行
 
 ## 四、页面截图
+<img width="1284" height="908" alt="图片" src="https://github.com/user-attachments/assets/c5de7977-58c1-4276-8a9d-c60087bb0373" />
 <img width="1284" height="908" alt="图片" src="https://github.com/user-attachments/assets/5272ca1f-7ada-4a07-8fa2-1f22b4cc3102" />
 <img width="1284" height="908" alt="图片" src="https://github.com/user-attachments/assets/9f09cbfa-35e0-40c9-aabb-b356e68d7d55" />
 <img width="1138" height="1062" alt="图片" src="https://github.com/user-attachments/assets/5d0731da-5ed2-4887-b9b9-c04a1483e60d" />
